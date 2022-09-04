@@ -1,0 +1,28 @@
+Bàn        Món ăn                                             Số lượng            
+B2         Burger Phô mai Tôm                                 1                   
+B2         Burger Phô mai Bò                                  1                   
+B2         Tôm viên Cola                                      1                   
+B2         Gà rán phần                                        1                   
+B2         Khoai tây chiên                                    1                   
+Bàn       Món ăn                       Số lượng            
+B1         Tôm viên Cola                1                   
+B1         Gà rán phần                  1                   
+B1         7 up                         1                   
+B1         Khoai tây chiên              1                   
+Bàn       Món ăn                        Số lượng            
+B3         Burger Phô mai Gà             1                   
+B3         Cơm gà Tender                 1                   
+B3         Gà viên Cola                  1                   
+B3         Cam                           1                   
+B3         Khoai tây chiên               1                   
+Bàn       Món ăn                        Số lượng            
+B1         Burger Phô mai Tôm            1                   
+B1         Gà rán phần                   1                   
+B1         Gà viên Cola                  1                   
+B1         7 up                          1                   
+Bàn       Món ăn                        Số lượng            
+B1         Gà viên Cola                  1                   
+B1         Gà rán phần                   1                   
+B1         Cafe                          1                   
+B1         Cam                           1                   
+B1         Khoai tây chiên               1                   

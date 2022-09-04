@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Câu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Câu6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
